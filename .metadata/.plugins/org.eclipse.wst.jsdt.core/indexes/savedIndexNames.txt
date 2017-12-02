@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Administrator\Desktop\raja\angular2_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2140562850.index
+3777904690.index
+1018176067.index
+3551269338.index
+4271530764.index
+3712048752.index
